@@ -2,7 +2,7 @@
 
 int main() {
 
-    int input,x;
+    int input;
 
     printf("每輸入一個數字，程式會再印出相同的數字。\n");
     //fill some condition into the following while loop
